@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for laying an imposition upon coals towards the building and maintaining ships for guarding the seas. Die Veneris, 28 Martii, 1651. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74417</idno><idno type="EEBO-CITATION">99868188</idno>
+  <idno type="VID">169093</idno>
+  <idno type="EEBO-PROQUEST">2240950327</idno>
+  
+            <idno type="STC">Thomason E1061_44</idno>
+            <idno type="STC">ESTC R209305</idno>
+            <idno type="PROQUEST">99868188</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868188e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169093)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for laying an imposition upon coals towards the building and maintaining ships for guarding the seas. Die Veneris, 28 Martii, 1651. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1325-1332.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field, Printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 10K-10L2. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>On 10K2r: last word of first line of text: "Eng-"; first word of line below initial: "that"; last word of last full line: "Be".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Shipbuilding --  England --  Early works to 1800.</term>
+               <term type="topical_term">Coal --  Taxation --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169093:1"/>
+            <p>AN ACT For laying an IMPOSITION UPON COALS Towards the Building and Maintaining Ships for Guarding the Seas.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 28 Martii, 1651.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Field,</hi> Printer to the Parliament of <hi>England.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169093:2"/>
+            <pb n="1325" facs="tcp:169093:2"/>
+            <head>AN ACT For laying an IMPOSITION UPON COALS Towards the Building and Maintaining SHIPS for Guarding the Seas.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> taking into their serious consideration the manifold Losses and great Prejudice sustained by the Mer<g ref="char:EOLhyphen"/>chants, and other the Good People of this Commonwealth, by reason of the many Py<g ref="char:EOLhyphen"/>rats and Sea-Rovers that infest the Coasts of this Common<g ref="char:EOLhyphen"/>wealth; and being desirous to prevent the like for the future, by Building and Main<g ref="char:EOLhyphen"/>taining of so many good and able Ships as may Secure and Encourage Trade and Commerce: For and towards the Build<g ref="char:EOLhyphen"/>ing and Maintaining of which Ships, Be
+<pb n="1326" facs="tcp:169093:3"/>it Enacted and Ordained by this present Parliament, and the Authority thereof, That from and after the First day of <hi>April,</hi> One thousand six hundred fifty and one, there shall be payable and paid for and upon all Coals, commonly called <hi>Sea-Coal, Pit-Coal, Stone-Coal,</hi> or <hi>Kannel-Coal,</hi> brought or Transported from <hi>Newcastle, Sunderland, Swan<g ref="char:EOLhyphen"/>sey,</hi> or other Ports of this Nation, or Im<g ref="char:EOLhyphen"/>ported from <hi>Scotland</hi> into, or unto any Port, Creek or Harbor of this Commonwealth, by way of Imposition as aforesaid, over and besides the Subsidy, or other Duties payable for any sort of the said Coals, by any Law or Ordinance now in force, the several Rates and Prices hereafter follow<g ref="char:EOLhyphen"/>ing; that is to say,</p>
+            <p>For all such of the said Coals as have been, or usually are sold by the Chalder, for every Chalder thereof containing Thirty six Bushels <hi>Winchester</hi> Measure, the Sum of Two shillings of lawful English Money.</p>
+            <p>And for such other of the said Coals as have, or usually are sold by the Stack, Ruck, Fathom, or other uncertain Denomination, for every Tun thereof containing Twenty hundred weight, the Sum of Twelve pence of like Money.</p>
+            <p>And for every Tun of Scotch-Coal Im<g ref="char:EOLhyphen"/>ported as aforesaid, containing Twenty hun<g ref="char:EOLhyphen"/>dred weight, the Sum of Two shillings six pence of like Money: Which Rates and Sums of Money shall be answered and paid at the Custom-houses of the respective Ports of this Commonwealth to the Commissioners for the Customs for the time being, or
+<pb n="1327" facs="tcp:169093:3"/>their Deputies in the respective Ports of this Nation, where any Coals shall arrive, by the Master or other person taking charge of any Ship, or other Vessel bringing Coals into any Port, Creek or Harbor of this Com<g ref="char:EOLhyphen"/>mon-wealth, before the Vnshipping or Land<g ref="char:EOLhyphen"/>ing of any part of the said Coals then Laden on Board the said Ship or Vessel so arriving as aforesaid within any Port, Creek or Harbor of this Common-wealth. All which Moneys the Commissioners for the Customs for the time being, their Deputy and Deputies, are hereby required to re<g ref="char:EOLhyphen"/>ceive upon Accompt, and shall from time to time issue out the same unto the Treasurer of the Navy, as by Order in Writing, signed by five of the Committee of Parliament for the Navy and Customs, the said Commis<g ref="char:EOLhyphen"/>sioners shall be directed and appointed.</p>
+            <p>And it is further Enacted by the Authority aforesaid, That if any Coals so imported or transported as aforesaid, shall at any time be Vnshipped or Landed; the aforesaid several Impositions or sums of Money by this Act due and payable for the same not paid or lawfully tendered to the Commissioners, or Collectors of the Customs, or one of them, or their Deputies as aforesaid, or Agreement with them or one of them made for the same in the open Custom-house, with the Privity or Agreement of the Check there; That all the said Coals so Vnshipped or Landed as aforesaid, shall be forfeit and lost; the one moyety thereof to be to him or them that shall seize, or sue for the same; and the other moyety or the value thereof, or the Fine or
+<pb n="1328" facs="tcp:169093:4"/>Composition for the same, to be paid to the Commissioners of the Customs for the time being, for the use of the Navy. And for the better levying of the said Duties and Impo<g ref="char:EOLhyphen"/>sitions aforesaid, and discovering of the true Quantities of all Coals transported or im<g ref="char:EOLhyphen"/>ported as aforesaid;</p>
+            <p>It is further Enacted by the Authority a<g ref="char:EOLhyphen"/>foresaid, That all and every Master and Masters of Ships and Vessels transporting any sort of Coal from Port to Port within this Nation, shall upon his or their arrival in any Port or Creek of this Nation, forthwith repair unto the Custom-house there, and be<g ref="char:EOLhyphen"/>fore the Collectors and Check for that Port, shall make Report in writing upon Oath (if thereunto required) of the true quantity or number of the Chalders or Tuns of Coals, according to the Computations aforesaid, by him or them imported in his or their said Ship or Vessel; And before he or they shall break bulk, or discharge out of his or their said Ship or Vessel any part of the said Coals, shall duly satisfie and pay the Impost thereof, ac<g ref="char:EOLhyphen"/>cording to the rates and values before men<g ref="char:EOLhyphen"/>tioned. And that in case any Master or other person taking charge of any such Ship or Vessel, shall refuse to declare as aforesaid, or shall break bulk, or unload any part of the said Coals before the Duties aforesaid payable thereupon shall be satisfied, and paid in maner aforesaid, or shall depart from the Port until he hath received from the Officers for the Customs, a full clearing of his said Ship or Vessel inwards; That all and every Master and Masters so offending as aforesaid, shall
+<pb n="1329" facs="tcp:169093:4"/>forfeit and lose the sum of Ten pounds; the one moyety thereof, or of the Fine or Compo<g ref="char:EOLhyphen"/>sition for the same, to be paid to the Commis<g ref="char:EOLhyphen"/>sioners of the Customs for the use of the Navy as aforesaid, and the other moyety thereof to be to him or them that will sue for and pro<g ref="char:EOLhyphen"/>secute the same in the Publique Exchequer, or any other Court of Record of this Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>And for the better discovering and preven<g ref="char:EOLhyphen"/>tion of such frauds (as may by ill disposed persons be endeavored to be practised in di<g ref="char:EOLhyphen"/>minution of the Duties so imposed as afore<g ref="char:EOLhyphen"/>said) It is further Enacted by the Authority aforesaid, That in all Ports and places of this Nation where sworn Meters are allowed, the Major, Bailiffs, or other chief Officer of such Port or place where any Coals shall be measured by the sworn or Publique Me<g ref="char:EOLhyphen"/>ters, to whom such Publique Meters are accomptable from time to time, so soon as any Ship or Vessel bringing Coals into the said Port shall be unladen, shall make Cer<g ref="char:EOLhyphen"/>tificate or Report in Writing to the Col<g ref="char:EOLhyphen"/>lectors and other Officers of the Customs in the said Port, of the true contents, quan<g ref="char:EOLhyphen"/>tity and number of Chalders or Tuns of Coals measured, weighed, or unladen out of each Ship or Vessel discharged in that Port respectively; And that in places where no sworn Meters are appointed by the Pub<g ref="char:EOLhyphen"/>lique Officers there, or where such as are imployed as Publique Meters shall be found or suspected to be unfaithful in their Trust, It shall be lawful for the Commissioners and Collectors of the Customs in such Ports
+<pb n="1330" facs="tcp:169093:5"/>and places, to appoint one or more fit and able persons, either upon Oath or without Oath, as to them in their discretion shall seem meet, to measure, weigh, and take ac<g ref="char:EOLhyphen"/>compt of the quantity of Coals imported in any Ship or Vessel arriving in the said Port and discharged there, or to inspect the Acti<g ref="char:EOLhyphen"/>ons and make Report unto the Commissi<g ref="char:EOLhyphen"/>oners or Collectors of the Customs, of the behavior and demeanor of the said sworn Meters therein; And that if any sworn Meter shall be found unfaithful in his Trust, or shall make a false Report of any Coals by him admeasured or delivered out of any Ship or Vessel, he shall by this Act be for ever disabled for executing the said Office of Meter, or using or exercising any other Office of Publique Trust in the said Port or this Commonwealth.</p>
+            <p>And for the better carrying on of the said Service, It is further Enacted by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That the Committee of Parliament for the Navy and Customs be hereby Authorized, as well to make and pub<g ref="char:EOLhyphen"/>lish such Rules and Instructions as may tend to the management of the said Service, and improvement of the said Revenue, for the best advantage of the Commonwealth, as from time to time to approve of such and so many fit &amp; able persons, with their Salaries, as shall be presented to them by the Commis<g ref="char:EOLhyphen"/>sioners of the Customs, as additional Offi<g ref="char:EOLhyphen"/>cers to the Officers now imployed in the Affairs of the Customs, as shall be meet and convenient for the better carrying on of this Service, and securing and levying the Duties
+<pb n="1331" facs="tcp:169093:5"/>and Impositions aforesaid, in all the Ports, Creeks and places of this Commonwealth; which Officers are hereby enabled in the Affairs and Business aforesaid, to enter, board, and visit all Ships and other Vessels whatsoever, importing Coals into any Port or Creek of this Nation; and the same to gage and admeasure, and in discovery and pursuit of any Coals which have not paid the Imposition as aforesaid, to make search and seizure thereof in any place whatsoever, and otherwise to do as any other Officers by any Statute, Act or Or<g ref="char:EOLhyphen"/>dinance are enabled to do, concerning any other Goods or Merchandize Vncustomed. And in cases of any fraud or misbehavior of any person relating to the said Imposition by this Act set and imposed upon all Coals as aforesaid, or tending to the Obstruction of the Collecting thereof, The Committee of Par<g ref="char:EOLhyphen"/>liament for Regulating the Excize, as also the Commissioners of the Customs, and their Deputies the Collectors in the several Ports of this Nation, are hereby enabled and au<g ref="char:EOLhyphen"/>thorized to examine and proceed against the Offenders therein and their Abettors, as by two several Ordinances of Parliament, hearing date the Sixth day of <hi>June,</hi> One thousand six hundred forty five, and the Six<g ref="char:EOLhyphen"/>teenth day of <hi>December,</hi> One thousand six hun<g ref="char:EOLhyphen"/>dred forty seven, in cases of Offence in Custom<g ref="char:EOLhyphen"/>houses, is directed and appointed.</p>
+            <p>Provided always, and be it Enacted by the Authority aforesaid, That all and every the Moneys which shall be Collected and gathered for the Imposition aforesaid upon
+<pb n="1332" facs="tcp:169093:6"/>Coals Imported or Landed in any Port or Creek of this Nation, between the Twelfth day of <hi>October</hi> and the First day of <hi>April</hi> in each year successively, shall be paid by the Commissioners of the Customs, to such per<g ref="char:EOLhyphen"/>son or persons as shall be appointed by the Parliament or the Committee of the Navy to receive the same, to be by them distributed for and towards the Relief of the Poor of such places, as shall be Ordered from time to time by the Parliament or Committee of the Navy; and such distribution thereof to be made, as shall hereafter be directed by the Parliament or Committee of the Navy.</p>
+            <p>Provided also, That it shall be lawful to the Commissioners for the Customs for the time being, and their Deputy-Collectors in the several Ports, to make Allowance unto the several Masters and others Importing Coals, as well of one Chalder or Tun in Twenty free of Impost, where Ingrain is or shall be allowed, as of Five <hi>per Cent.</hi> more upon all English Coal; and after that Rate for every greater or lesser quantity thereof, for the better Encouragement of the said Masters and others using the said Coal Trade.</p>
+            <p>Provided, That this Act shall continue and be in force until the One and thirtieth day of <hi>March,</hi> which shall be in the year of our Lord One thousand six hundred fifty and three, and no longer.</p>
+         </div>
+      </body>
+      <back>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris,</hi> 28 <hi>Martii,</hi> 1651.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That his Act be forthwith printed and published.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
